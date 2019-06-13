@@ -4054,3 +4054,15 @@ And service was super friendly.;NOTISSUE
 Why are these sad little vegetables so overcooked?;ISSUE
 This place was such a nice surprise!;NOTISSUE
 The live music  totally blows.;NOTISSUE
+  help ;NOT_ISSUE
+  help ;NOT_ISSUE
+  help ;NOT_ISSUE
+  help ;ISSUE
+help ;ISSUE
+issue ;ISSUE
+issue ;ISSUE
+I have a problem;ISSUE
+can you help me;ISSUE
+can you help me;NOT_ISSUE
+can you help me;NOT_ISSUE
+ help me;ISSUE
